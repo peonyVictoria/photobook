@@ -1,0 +1,15 @@
+@font-face {
+	font-family: PFAgoraSansPro-Thin;
+	src: url("../fonts/PFAgoraSansPro-Thin/pfagorasanspro-thin.eot"),
+		url("../fonts/PFAgoraSansPro-Thin/pfagorasanspro-thin.svg"),
+		url("../fonts/PFAgoraSansPro-Thin/pfagorasanspro-thin.ttf"),
+		url("../fonts/PFAgoraSansPro-Thin/pfagorasanspro-thin.woff");
+}
+
+@font-face {
+	font-family: PFAgoraSansPro-Light;
+	src: url("../fonts/PFAgoraSansPro-Light/pfagorasanspro-light.eot"),
+		url("../fonts/PFAgoraSansPro-Light/pfagorasanspro-light.svg"),
+		url("../fonts/PFAgoraSansPro-Light/pfagorasanspro-light.ttf"),
+		url("../fonts/PFAgoraSansPro-Light/pfagorasanspro-light.woff");
+}
